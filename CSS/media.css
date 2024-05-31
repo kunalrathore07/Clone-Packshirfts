@@ -1,0 +1,221 @@
+@media only screen and (min-width: 200px) and (max-width: 575px) {
+	.nav_middle{
+		width: 100%;
+		justify-content: center;
+	}
+
+	.logo img{
+		width: 200px;
+	}
+
+	.contact{
+		display: none;
+	}
+
+	.banner{
+		padding: 83px 0px 60px 0px;
+	}
+
+	.banner_middle{
+		width: 100%;
+		display: block;
+		margin: auto;
+	}
+
+	.b_m_c1{
+		width: 100%;
+	}
+
+	.b_c1_heading1{
+		margin:0%;
+		font-size: 20px;
+		text-align: center;
+	}
+
+	.b_c1_heading1 span{
+		font-size: 25px;
+	}
+
+	.b_c1_heading2{
+		margin-top: 10px;
+		font-size: 16px;
+		text-align: center;
+		word-spacing: 3px;
+	}
+
+	.b_c1_heading3{
+		text-align: center;
+		font-size: 14px;
+		margin: 20px 0px;
+	}
+
+	.b_c1_img{
+		text-align: center;
+	}
+
+	.icon{
+		width: 100px;
+	}
+
+	.b_m_c2{
+		margin: auto;
+		width: 85%;
+		padding: 20px 20px;
+	}	
+
+	.captcha{
+		display: block;
+	}
+
+	.captcha input{
+		width: 96%;
+	}
+
+	.captcha_num{
+		margin: auto;
+		margin-top: 10px;
+		width: 100%;
+		padding: 40px 0px;
+		font-size: 40px;
+	}
+
+	.paking_video{
+		width: 100%;
+	}
+
+	.paking_heading{
+		font-size: 20px;
+	}
+
+	.video_contanier{
+		width: 96%;
+		padding: 0% 2%;
+		flex-direction: column;
+	}
+ 
+
+	.service_section_mid{
+		width: 100%;
+	}
+
+	.ser_contanier{
+	width: 100%;
+	padding: 0% 1%;
+	}
+
+	.ser_text_btn{
+		width: 30%;
+	}
+
+	.achive_mid span{
+		font-size: 20px;
+	}
+	.img_section{
+		width: 100%;
+	}
+
+	.achive_mid{
+		width: 100%;
+	}
+
+	.why_contanier{
+		width: 100%;
+	}
+
+	.why_box{
+		width: 48%;
+	}
+	
+	.contant_box{
+		width: 50%;
+	}
+	
+	.customer_mid{
+		width: 100%;
+	}
+
+	.cus_mid_text{
+		width: 95%;
+		padding: 200px 10px 50px 10px;
+		text-align: justify;
+	}
+
+	.photo{
+		width: 171px;
+		top: 17%;
+		left: 31%;
+	}
+
+	.cus_mid_text p{
+		margin-top: 40px;
+	}
+
+	.cus_mid_text img{
+		top: 25%;
+		left: 20%;
+	}
+
+	.client{
+		background-color: white;
+		padding: 0%;
+	}
+
+	.clinet_body{
+		overflow: hidden;
+		flex-wrap: wrap;
+	}
+
+	.clinet_box{
+		width: 50%;
+		display: none;
+	}
+
+	.clinet_box:nth-child(1){
+		display: block;
+	}
+
+	.branches_mid{
+		width: 100%;
+	}
+
+	.branches_body{
+		flex-direction: column;
+	}
+
+	.branches_box{
+		margin: 10px 0px;
+	}
+
+	.packers_body{
+		width: 100%;
+	}
+
+	.packers_text_section{
+		display: block;
+		width: 50%;
+		margin: auto;
+	}
+
+	.packers_box{
+		color: #2f2f2f;
+		text-align: center;
+		padding: 0px 2px;
+	}
+
+	footer{
+		margin-bottom: 40px;
+	}
+
+	.call{
+		visibility: visible;
+	}
+
+	.truck{
+		visibility: hidden;
+	}
+
+}
+
+
+
+
