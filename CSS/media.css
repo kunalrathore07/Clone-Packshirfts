@@ -165,14 +165,18 @@
 		flex-wrap: wrap;
 	}
 
-	.clinet_box{
-		width: 50%;
-		display: none;
+	.owl-prev{
+		left: -10px;
 	}
 
-	.clinet_box:nth-child(1){
-		display: block;
+	.owl-next{
+		right: -10px;
 	}
+
+	.item{
+		width: 170px;
+	}
+
 
 	.branches_mid{
 		width: 100%;

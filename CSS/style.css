@@ -473,6 +473,9 @@ nav{
 	width: 125px;
 }
 
+
+/* Client Section Start */
+
 .client{
 	width: 100%;
 	margin-top: 30px;
@@ -502,17 +505,55 @@ nav{
 	justify-content: space-around;
 }
 
+/* Owl Carosual Overload Classes */
 
-.clinet_box{
-	width: 18%;
+.slider_main{
+    width: 100%;
+    margin: auto;
+    position: relative;
+}
+
+.owl-next{
+    position: absolute;
+    top: 18px;
+    right: -40px;
+    font-size: 35px !important;
+    font-weight: bold !important;
+    width: 20px;
+    height: 55px;
+    background: transparent !important;
+    outline: none;
+    color: black !important;
+}
+
+.owl-prev{
+    position: absolute;
+    top: 18px;
+    left: -40px;
+    font-size: 35px !important;
+    font-weight: bold !important;
+    width: 20px;
+    height: 55px;
+    background: transparent !important;
+    outline: none;
+    color: black !important;
+}
+
+.item{
+    width:  200px;
+    margin: auto;
+}
+
+.item>img{
 	border-radius: 20px;
 }
 
-.clinet_box img{
-	width: 100%;
-	height: 100%;
-	border-radius: inherit;
+.owl-item{
+    margin: auto;
 }
+
+
+/* Client Section Ended */
 
 .branches{
 	width: 100%;
